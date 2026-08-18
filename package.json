@@ -1,0 +1,14 @@
+{
+  "name": "esp-c-workspace",
+  "version": "1.0.0",
+  "description": "Dummy package to satisfy AI Studio dev server for C projects",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
